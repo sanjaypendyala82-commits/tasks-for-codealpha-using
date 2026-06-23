@@ -1,0 +1,6 @@
+{
+  "name": "AI-Enhanced Flashcard Quiz",
+  "description": "A flashcard app that uses a supervised Logistic Regression model to predict and prioritize cards you are most likely to forget for optimized spaced repetition.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
